@@ -18,7 +18,7 @@ For the actual workshop you will need the following,
 feel free to clone this repository. If you are unfamiliar with github you can download a zip file from this repos main 
 page by clicking the green code button above to the right and then click 'Download ZIP' . Make sure you have selected 
 the main branch, as seen above to the left of this page. Here is an image of what it should look like. 
-![image](./resources/download-clone-repo.png)
+![image](./resources/download_clone_repo.png)
 
 
 
