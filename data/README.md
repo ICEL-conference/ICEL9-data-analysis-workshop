@@ -1,0 +1,1 @@
+In order for our example scripts to work the data sets used for the workshop should be downloaded and placed in the same folder as this readme file. 
