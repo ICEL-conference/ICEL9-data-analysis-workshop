@@ -1,1 +1,1 @@
-# Installation instructions for Anaconda ans python
+# Installation instructions for Anaconda and python
