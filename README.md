@@ -12,7 +12,7 @@ For the actual workshop you will need the following,
 1. Your own laptop.
 
 2. The proper software installed. Either MATLAB or Python. Installation guides for [MATLAB](./matlab/installation.md) and 
-[Python](./python/installation.md) can be found in their respective folders in this repository.
+[Python](./python/README.md) can be found in their respective folders in this repository.
 3. Data sets downloaded. Here are the links for this.
 4. Make sure the code in this repository is available and can be run on your laptop. If you are familiar with github
 feel free to clone this repository. If you are unfamiliar with github you can download a zip file from this repos main 
