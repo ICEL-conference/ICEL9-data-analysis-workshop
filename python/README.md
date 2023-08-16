@@ -5,7 +5,7 @@ installing python, we will also install a commonly used package manager so that 
 packages that we are going to use. If this sounds confusing, do not worry too much, simply following the instructions 
 will be fine.
 
-If you are already comfortable with python and conda you might want to skip to [here](#advanced-user-installation-instructions)
+If you are already comfortable with python and conda you might want to skip to the [Advanced user installation instructions](#advanced-user-installation-instructions)
 
 
 ## Install Miniconda
