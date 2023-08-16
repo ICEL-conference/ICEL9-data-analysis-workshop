@@ -5,6 +5,8 @@ installing python, we will also install a commonly used package manager so that 
 packages that we are going to use. If this sounds confusing, do not worry too much, simply following the instructions 
 will be fine.
 
+If you are already comfortable with python and conda you might want to skip to [here](#advanced-user-installation-instructions)
+
 
 ## Install Miniconda
 What is conda / Miniconda? Here is the description from the official documentation,
@@ -66,6 +68,7 @@ conda activate icel9workshop
 You should now see that and indication on your prompt that the environment has been activated as the name is seen in 
 parentheses on the left side. ![conda activate environment prompt](../resources/conda-_activate_prompt.png)
 
+## Installing the required packages
 Now that we have activated our environment we can install the packages we are going to need. Type in the following lines 
 one at a time and answer any prompt with y followed by enter,
 ```
@@ -76,7 +79,16 @@ conda install plotly
 conda install jupyter
 ```
 
+Now these packages have been installed in the `icel9workshop` environment and will only be available when it is activated.
+
+
 ## Python tutorial
 To test and verify that everything has been set up as it should please follow the instructions in the tutorial and
 make sure the tutorial code can be run.
 Please refer to the tutorial document found [here](./tutorial.md).
+
+## Advanced user installation instructions
+
+In order to run the tutorial and workshop (notebooks) an installation of python 3.11 and the packages listed under
+[Installing the required packages](#installing-the-required-packages) is required. This installation guide uses 
+Miniconda to install and manage the environment but this is not strictly necessary.
