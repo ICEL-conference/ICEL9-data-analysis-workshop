@@ -39,3 +39,24 @@ jupyter notebook is hosted by the process running in you terminal.
 In the browser page that just opened you should find the contents of the repository listed. You are now inside the jupyter 
 notebook application, and we can execute and run *notebooks*. In the browser click the `python` folder and then the 
 `tutorial.ipynb` that shows up on the next page.
+
+## The controls of a jupyter notebook
+Notebooks are organized into *cells* of code. Each cell can be executed by itself and has access to all the output from 
+cells that have been executed before, no matter in what order the actual cells come. To run the code in a cell have a 
+look at the menu available at the top of the page, ![notebook menu](../resources/tutorial_notebook_menu.png)
+Note the "run" button. Clicking this will execute the currently selected cell and also shift to focus to the next cell 
+in order. 
+
+## Executing code in a cell
+Now click the first cell and (containing the import statements) and then click the run button, the output
+should look something like this, ![notebook menu](../resources/tutorial_notebook_running_cell.png)
+Note how the empty squared brackets first held and asterisk that then turned into a "1". This indicates the order in 
+which the cells have been run.
+
+# Running all cells from the top
+In the top menu there is a button that looks like a "fast-forward" button. Clicking this will reset and then run all 
+cells from the top down. Click this button now and verify that the all cells have been executed properly without errors.
+
+# Resetting and clearing output
+When clicking the "kernel" menu item there is an option to "Restart & clear output". This can sometimes be useful when
+old data is lying around somewhere interfering with results.
