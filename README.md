@@ -6,6 +6,11 @@ In this workshop we will showcase some examples of equine-kinematics analysis pr
 Hopefully this will present you with some insights into how this can be done, with some useful code-snippets and 
 an attempt to present these comprehensible.
 
+> **Attention!**  
+> Keep an eye on updates to this repository. The absolute final version of the code that will be used will be uploaded
+> at the latest on the 31<sup>st</sup> of August 2023 by 12:00 CET. This mean you can safely download the latest version 
+> the night before the workshop.
+
 ## Requirements
 
 For the actual workshop you will need the following,
@@ -17,8 +22,7 @@ For the actual workshop you will need the following,
 4. Make sure the code in this repository is available and can be run on your laptop. If you are familiar with github
 feel free to clone this repository. If you are unfamiliar with github you can download a zip file from this repos main 
 page by clicking the green code button above to the right and then click 'Download ZIP' . Make sure you have selected 
-the main branch, as seen above to the left of this page. Here is an image of what it should look like. 
+the main branch, as seen above to the left of this page. Here is an image of what it should look like,
 ![image](./resources/download_clone_repo.png)
 
-
-
+   
