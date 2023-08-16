@@ -76,7 +76,7 @@ conda install plotly
 conda install jupyter
 ```
 
-## Test the environment and package installation
+## Python tutorial
 To test and verify that everything has been set up as it should please follow the instructions in the tutorial and
 make sure the tutorial code can be run.
 Please refer to the tutorial document found [here](./tutorial.md).
